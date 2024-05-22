@@ -1,4 +1,5 @@
 .env
 venv/
 __pycache__/
-models/
+models/llama-2-7b-chat.ggmlv3.q4_1.bin
+models/all-MiniLM-L6-v2-f16.gguf
